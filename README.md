@@ -56,7 +56,7 @@ Start your `create-react-app` projects in seconds with the best, industry-standa
 
 ## Install & Start
 
-Create React App with the template
+Create React App with a template
 
 ```shell
 npx create-react-app --template cra-template-rb my-app
